@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**gowthamalasakaniS574661/gowthamalasakaniS574661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there! 👋 I'm Gowtham Alasakani
 
 **🎓 About Me:**
